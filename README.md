@@ -39,9 +39,19 @@ Entonces, hasta aquí tenemos algunas cuestiones a tener en cuenta:
 1. Se prefieren cursos generales o de nivel inicial
 2. El idioma en que se dicta el curso
 3. La carga horaria y la duración.
+4. La modalidad preferida es la libre, antes que la estructurada.
 
 No hay que olvidar que esto lleva también sus desventajas. La cantidad de estudiantes puede ser muy grande, pero también lo es el índice de desersión, como se muestra en este estudio:
 [Online Education Statistics for creators and entrepreneurs](https://elitecontentmarketer.com/online-education-stats/)
+
+Ahora es momento de introducir otra variable: el rating. Ya que nuestro trabajo se desarrolla en internet, es ahí también donde tenemos que ir a buscar el feedback. ¿Cuánto influye una mala calificación? ¿contamos con herramientas para hacer esta medición?
+Afortunadamente, la respuesta a la última pregunta es sí.
+
+**¿Es lo mismo una review por click que una review escrita?**
+Primero tenemos que saber que una es mucho más fácil de medir que la otra. Pero también es más imprecisa. ¿cuál es el criterio para poner 4 estrellas en lugar de 5 o 3? ¿qué faltó? Imposible saberlo. Por eso podemos complementar esa medición con, por ejemplo, un análisis de sentimiento. A continuación algunos ejemplos:
+
+![](compound.npg)
+
 
 
 
