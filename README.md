@@ -71,7 +71,9 @@ Por último, las conclusiones:
 Los datos a los que les temenos que prestar mayor atención son:
 - El nivel del curso, siendo preferible, tanto por ingresos como por cantidad de estudiantes, el nivel introductorio y los cursos generales.
 - El idioma es un factor clave a la hora de poder escalar el negocio hacia los mercados más grandes y con mayor poder adquisitivo. El curso debe, al menos, tener subtítulos en inglés.
-- La duración y la carga horaria del curso. Es preferible que sean cursos cortos y con horarios flexibles o sin 
+- La duración y la carga horaria del curso. Es preferible que sean cursos cortos y con horarios flexibles o sin un cronograma fijo.
+- No se pudo determinar una relación clara entre el rating y las ventas o la cantidad de alumnos, pero contamos con las herramientas para hacerlo.
+(---)
 
 
 
