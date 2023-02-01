@@ -53,6 +53,16 @@ Primero tenemos que saber que una es mucho más fácil de medir que la otra. Per
 ![](compound.png)
 
 
+Ahí estamos midiendo la proporción de aspectos positivos, negativos y neutros y clasificando las opiniones de esa manera. No es un método infalible, desde ya y se registran inconcistencias entre la puntuación y el sentimiento, llegando en algunos casos, a indicar lo contrario entre sí. Habría que analizar en qué momento se realizó cada una, la posible existencia de sarcasmo o ironía en la opinión escrita, etcétera, pero aún haciendo un análisis superficial sirve como complemeto y le da más profundidad a los datos. 
+
+En los dos siguientes gráficos se nota claramente la correlación entre las dos formas de medir el rating
+
+![](sentiment.png)
+
+
+![](rating.png)
+
+
 
 
 
