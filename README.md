@@ -31,7 +31,18 @@ Tanto en el primer gráfico como en el segundo, se nota una clara tendencia de l
 Otro factor determinante a la hora de elegir un curso, es el idioma en el que se brinda. Una abrumadora mayoría los elige en inglés. Claro que esto se debe a múltiples factores: La mayoría de los estudiantes de este tipo de cursos, especialmente durante los años analizados, son de habla inglesa; quedando el español, en un lejano segundo lugar, pero con bastante relevancia.
 
 Aquí una muestra:
+
+
 ![](level_lang.png)
+
+Entonces, hasta aquí tenemos algunas cuestiones a tener en cuenta: 
+1. Se prefieren cursos generales o de nivel inicial
+2. El idioma en que se dicta el curso
+3. La carga horaria y la duración.
+
+No hay que olvidar que esto lleva también sus desventajas. La cantidad de estudiantes puede ser muy grande, pero también lo es el índice de desersión, como se muestra en este estudio:
+[Online Education Statistics for creators and entrepreneurs](https://elitecontentmarketer.com/online-education-stats/)
+
 
 
 
