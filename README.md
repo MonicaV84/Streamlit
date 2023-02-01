@@ -73,8 +73,10 @@ Los datos a los que les temenos que prestar mayor atención son:
 - El idioma es un factor clave a la hora de poder escalar el negocio hacia los mercados más grandes y con mayor poder adquisitivo. El curso debe, al menos, tener subtítulos en inglés.
 - La duración y la carga horaria del curso. Es preferible que sean cursos cortos y con horarios flexibles o sin un cronograma fijo.
 - No se pudo determinar una relación clara entre el rating y las ventas o la cantidad de alumnos, pero contamos con las herramientas para hacerlo.
-(---)
 
+
+Antes de finalizar comparto el link de la presentación interactiva donde se puede ver con mayor nivel de detalle lo expuesto:
+[](https://monicav84-streamlit-presentation-p6kken.streamlit.app/)
 
 
 
