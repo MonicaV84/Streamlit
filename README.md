@@ -1,5 +1,7 @@
 # Streamlit
 
+!(mooc.jpg)
+
 
 La idea de este proyecto es generar la información necesaria a partir de los datos de que disponemos para hacer recomendaciones a un cliente sobre cuál es el mejor camino a tomar a la hora de tomar una decisión de negocios.
 
