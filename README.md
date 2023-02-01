@@ -10,14 +10,21 @@ Disponemos de cuatro datasets de empresas de educación digital muy conocidas. N
 Los datasets, que durante el proyecto fueron reducidos a tres, son los siguientes:
 
 - [Dataset de Udemy](https://drive.google.com/file/d/1PFW3LeJe7C3b6WptTixbsluHDDQqDr_6/view?usp=share_link)
+- [Dataset de Edx](https://drive.google.com/file/d/1qHA8ivOQAV63i1fA9aHAvDEgAYeM2Xsv/view?usp=share_link)
+- [Dataset de Coursera](https://drive.google.com/file/d/1JOxfWyta1HYupBGlidjf8UDOlEAUUPhv/view?usp=share_link)
 
 ## Objetivo:
 
-Saber, a partir de los datos disponibles la relación entre ciertas variables y las ventas. Para esto es necesario limpiar los datos, estudiarlos un poco para ver cómo nos pueden servir.
+### Saber, a partir de los datos disponibles la relación entre ciertas variables y las ventas.
 
 ## Informe:
+Los datos muestran claramente una relación entre el nivel del curso (información presente entre los datos de Udemy y de Edx y la cantidad de inscriptos a esos cursos. Llamativamente, el valor de los mismos no parece ser determinante a la hora de tomar la decisión de estudiar en línea.
 
-Para esta parte vamos a ayudarnos un poco con gráficos para poder explicarlo mejor:
+Para que se pueda ver claramente este punto, presento dos gráficas:
+
+
+
+
 
 
 
