@@ -62,6 +62,17 @@ En los dos siguientes gráficos se nota claramente la correlación entre las dos
 
 ![](rating.png)
 
+Antes de pasar a las conlusiones, hay una cuestión muy importante. Definir los KPI's.
+
+Yo propongo hacer el seguimiento de este emprendimiento con tres métricas fundamentales. Por un lado, la **cantidad de alumnos**, pero eso no alcanza, porque, como hemos visto, y se detalla en la presentación, más cantidad de alumnos no implica necesariamente mayor cantidad de ingresos y vicversa. Por lo que hay que complementar esa métrica con los **ingresos** obtenidos. Así podremos tener una idea mucho más clara del rumbo a seguir. Por último, el **ingreso promedio por alumno** nos permite determinar si un curso es rentable, y, en caso de tener que tomar la determinación de abrir o cerrar un curso, ver cuál es el que más nos conviene. Además, estas métricas nos van a permitir calcular con mayor precisión el ROI, cuando dispongamos de las métricas de inversión. 
+
+Por último, las conclusiones:
+
+Los datos a los que les temenos que prestar mayor atención son:
+- El nivel del curso, siendo preferible, tanto por ingresos como por cantidad de estudiantes, el nivel introductorio y los cursos generales.
+- El idioma es un factor clave a la hora de poder escalar el negocio hacia los mercados más grandes y con mayor poder adquisitivo. El curso debe, al menos, tener subtítulos en inglés.
+- La duración y la carga horaria del curso. Es preferible que sean cursos cortos y con horarios flexibles o sin 
+
 
 
 
