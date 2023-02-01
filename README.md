@@ -17,12 +17,13 @@ Los datasets, que durante el proyecto fueron reducidos a tres, son los siguiente
 
 ## Objetivo:
 
-### Saber, a partir de los datos disponibles la relación entre ciertas variables y las ventas.
+### Deducir la importancia de las variables en las ventas y aconsejar al cliente.
 
 ## Informe:
 Los datos muestran claramente una relación entre el nivel del curso (información presente entre los datos de Udemy y de Edx y la cantidad de inscriptos a esos cursos. Llamativamente, el valor de los mismos no parece ser determinante a la hora de tomar la decisión de estudiar en línea.
 
 Para que se pueda ver claramente este punto, presento dos gráficas:
+![](subs_level.png)
 
 
 
