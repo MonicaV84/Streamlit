@@ -50,7 +50,7 @@ Afortunadamente, la respuesta a la última pregunta es sí.
 **¿Es lo mismo una review por click que una review escrita?**
 Primero tenemos que saber que una es mucho más fácil de medir que la otra. Pero también es más imprecisa. ¿cuál es el criterio para poner 4 estrellas en lugar de 5 o 3? ¿qué faltó? Imposible saberlo. Por eso podemos complementar esa medición con, por ejemplo, un análisis de sentimiento. A continuación algunos ejemplos:
 
-![](compound.npg)
+![](compound.png)
 
 
 
