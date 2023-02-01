@@ -26,6 +26,13 @@ Para que se pueda ver claramente este punto, presento dos gráficas:
 ![](subs_level.png)
 ![](cert_num.png)
 
+Tanto en el primer gráfico como en el segundo, se nota una clara tendencia de los estudiantes hacia los cursos más generales o introductorios, independientemente, como ya mencioné, del valor de los mismos, por lo cual creo que esa es una variable a tener en cuenta. Más específicamente, en el link que compartiré al final, se pueden notar dos cosas: quienes deciden iniciar un curso de este estilo, son generalmente, quienes, en promedio, más tiempo están dispuestos a dedicarle, ya que son mayoría en los cursos de mayor duración y mayor carga horaria. Quienes necesitan cursos avanzados, en general los eligen de corta duración y baja carga horaria.
+
+Otro factor determinante a la hora de elegir un curso, es el idioma en el que se brinda. Una abrumadora mayoría los elige en inglés. Claro que esto se debe a múltiples factores: La mayoría de los estudiantes de este tipo de cursos, especialmente durante los años analizados, son de habla inglesa; quedando el español, en un lejano segundo lugar, pero con bastante relevancia.
+
+Aquí una muestra:
+![](level_lang.png)
+
 
 
 
