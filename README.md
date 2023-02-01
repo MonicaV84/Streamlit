@@ -24,6 +24,7 @@ Los datos muestran claramente una relación entre el nivel del curso (informaci�
 
 Para que se pueda ver claramente este punto, presento dos gráficas:
 ![](subs_level.png)
+![](cert_num.png)
 
 
 
