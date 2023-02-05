@@ -11,14 +11,14 @@ st.set_page_config(
 
 )
 
-# cv Coursera
+url_coursera = 'https://drive.google.com/file/d/1augQGT2oCGB9x9wY_-xVOkYxbZXkCrlW/view?usp=sharing'
+path_coursera = 'https://drive.google.com/uc?export=download&id='+url_coursera.split('/')[-2]
 @st.cache
-def read():
+def read_coursera():
+    coursera = pd.read_csv(path_coursera)
+    return coursera
+df_coursera = read_coursera()
 
-    df_coursera = pd.read_csv('/home/monica/moocs_data_analysis/.venv/coursera_final.csv')
-    return df_coursera
-read()
-df_coursera = read()
 
 st.image('./coursera_logo.png', width=150)
 
@@ -38,18 +38,15 @@ df_kpi = df_coursera.query(
 )
 
 
-average_compound =round((df_kpi.compound).mean(),2)
-reviews_per_year = df_kpi['reviewers'].sum()
 
-left_column,right_column= st.columns(2)
-with left_column:
-    st.subheader('Promedio de compound')
-    st.header(f'${average_compound :,.0f}')
+reviews_per_year = df_kpi['compound'].value_counts().sum()
 
 
-with right_column:
-    st.subheader('Reviews por año')
-    average =st.header(f'${reviews_per_year}')
+
+
+st.subheader('Reviews por año')
+reviews_per_year = st.header(f'{reviews_per_year :,.0f}')
+
 
 
 st.markdown('---')
